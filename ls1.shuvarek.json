@@ -1,0 +1,11 @@
+{
+  "description": "Server ls1",
+  "domain": "is-a.dev",
+  "subdomain": "ls1.shuvarek",
+  "owner": {
+    "username": "shuverk"
+  },
+  "record": {
+    "A": ["128.254.206.11"]
+  }
+}
