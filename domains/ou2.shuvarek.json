@@ -1,0 +1,11 @@
+{
+  "description": "Server ou2",
+  "domain": "is-a.dev",
+  "subdomain": "ou2.shuvarek",
+  "owner": {
+    "username": "shuvarek"
+  },
+  "record": {
+    "A": ["130.61.133.26"]
+  }
+}
