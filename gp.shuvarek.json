@@ -1,0 +1,11 @@
+{
+  "description": "GitHub Pages for Shuvarek",
+  "domain": "is-a.dev",
+  "subdomain": "gp.shuvarek",
+  "owner": {
+    "username": "shuverk"
+  },
+  "record": {
+    "CNAME": "shuvarek.github.io"
+  }
+}
