@@ -1,0 +1,11 @@
+{
+  "description": "Main domain for Shuvarek servers",
+  "domain": "shuvarek.is-a.dev",
+  "subdomain": "shuvarek",
+  "owner": {
+    "username": "shuvarek"
+  },
+  "record": {
+    "A": ["130.61.133.26"]
+  }
+}
